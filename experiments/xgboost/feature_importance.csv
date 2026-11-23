@@ -1,0 +1,7 @@
+Feature,Importance
+production_lag_2,0.41831547
+production_lag_1,0.20471707
+Year,0.20195292
+rolling_mean_3,0.097341426
+production_lag_3,0.06021719
+rolling_std_3,0.017455952
